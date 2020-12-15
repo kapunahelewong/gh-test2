@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gh-test2"
+    }
+  },
+  "defaultProject": "gh-test2",
+  "cli": {
+    "analytics": false
+  }
 }
